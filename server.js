@@ -1,2 +1,1 @@
-alert("Hola");
-echo "hola";
+servidor funcionando
